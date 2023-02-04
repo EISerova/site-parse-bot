@@ -1,6 +1,6 @@
 # Parse-comment-bot.
-![example workflow](https://github.com/EISerova/foodgram-project-react/actions/workflows/main.yml/badge.svg)  
-![Selenium(https://img.shields.io/badge/selenium-selenium-green) ![Aiogram](https://img.shields.io/badge/aiogram-aiogram-green) !
+ 
+![Selenium(https://img.shields.io/badge/selenium-selenium-green) ![Aiogram](https://img.shields.io/badge/aiogram-aiogram-green)
 
 **Parse-comment-bot** - парсинг комментариев в сайта. Бот принимает количество проверяемых страниц и возвращает список комментариев с запрещенными словами, а также id комментариев определенных юзеров, эл.почта которых внесены в список
 
